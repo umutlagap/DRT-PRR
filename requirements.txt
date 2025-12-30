@@ -1,0 +1,22 @@
+# DRT-PRR Dependencies
+
+# Core ABM Framework
+mesa>=2.0.0
+
+# Data Processing
+pandas>=1.5.0
+numpy>=1.21.0
+openpyxl>=3.0.0  # For Excel file support
+
+# Spatial Analysis
+scipy>=1.9.0
+
+# Optional: Visualization
+matplotlib>=3.5.0
+
+# Optional: Geospatial (for shapefile support)
+geopandas>=0.12.0
+shapely>=2.0.0
+
+# Optional: Performance optimization
+# pickle (built-in)
